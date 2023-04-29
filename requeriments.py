@@ -1,0 +1,3 @@
+py3langid
+textblob
+tldextract
